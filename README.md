@@ -72,5 +72,6 @@ Your report should include:
 ![WhatsApp Image 2026-02-25 at 10 44 10 AM](https://github.com/user-attachments/assets/6d7d6ef5-e3e8-4111-955e-6f712b21c07d)
 <img width="987" height="749" alt="Screenshot 2026-02-14 141544" src="https://github.com/user-attachments/assets/211362d3-99f0-4f7e-b71d-7d8e6811b330" />
 ---
+
  ## result 
- thus the reciever sensitivity is obtained and calculated 
+ Thus the receiver sensitivity is obtained and calculated.
